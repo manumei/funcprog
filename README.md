@@ -1,1 +1,3 @@
 # funcprog
+
+FUNctional Programming
